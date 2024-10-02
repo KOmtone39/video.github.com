@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fff;
+}
+
+.main{
+    margin-top: 300px;
+    margin-left: 100px;
+
+}
+
+.h1{
+    margin-top: 3px;
+}
+
+.btn{
+    border: #fff;
+    border: 2px solid white;
+background: 0;
+margin-top: 3px;
+padding-left: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 20px;
+border-radius: 10px;
+}
+
+.container {
+    max-width: 100%;
+    width: 1220px;
+    margin: 0 auto;
+}
+
+.header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 92px;
+   
+}
+
+.header-list {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    color: #fff;
+}
+
+.header-link {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22.59px;
+    color: #1F1534;
+    transition: all ease 300ms;
+    opacity: 0.5;
+
+}
+
+.header-link:hover {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22.59px;
+    opacity: 1;
+    transition: all ease 300ms;
+}
+
+.header-img {
+    transition: all ease 5s;
+
+}
+
+.header-img:hover {
+    transform: rotate(360deg);
+    transition: all ease 5s;
+}
+
+
+
+
+
+.video {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+
+}
+
+.bg-vide {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+
+.main2{
+    margin-top: 300px;
+    margin-left: 100px;
+
+}
+
+.h2{
+    margin-top: 3px;
+}
+
+.btn2{
+    border: #fff;
+    border: 2px solid white;
+background: 0;
+margin-top: 3px;
+padding-left: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 20px;
+border-radius: 10px;
+}
+
+
+.video2{
+    width: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+
+}
+
+.bg-vide2 {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
